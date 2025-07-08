@@ -1,27 +1,27 @@
-// const allProducts = [
+const allProducts = [
 
-//     { id: 1, name: "Laptop", category: "Electronics", price: 1200 },
+    { id: 1, name: "Laptop", category: "Electronics", price: 1200 },
   
-//     { id: 2, name: "T-Shirt", category: "Clothing", price: 25 },
+    { id: 2, name: "T-Shirt", category: "Clothing", price: 25 },
   
-//     { id: 3, name: "Smartphone", category: "Electronics", price: 800 }
+    { id: 3, name: "Smartphone", category: "Electronics", price: 800 }
   
-//     ];
+    ];
 
-//     let targetCategory = "books";
+    let targetCategory = "books";
 
-// let a =    allProducts.filter((ele)=>{
-//         return ele.category == targetCategory;
-//     })
+let a =    allProducts.filter((ele)=>{
+        return ele.category == targetCategory;
+    })
 
-//     a.forEach((e)=>{
-//         console.log(`${e.name} \$ ${e.price}`);
-//     })
-//     if(a.length == 0){
-//         console.log(`No products found in category: ${targetCategory}`);
+    a.forEach((e)=>{
+        console.log(`${e.name} \$ ${e.price}`);
+    })
+    if(a.length == 0){
+        console.log(`No products found in category: ${targetCategory}`);
         
-    // }
-
+    }
+// 2nd ans
 
 //     const users = [
 
