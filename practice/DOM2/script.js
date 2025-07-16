@@ -18,4 +18,4 @@ let a = root.firstElementChild;
 // it removes the child element from the dom
 root.removeChild(a);
 
-// 
+//
