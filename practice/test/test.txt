@@ -1,0 +1,15 @@
+													Coding questions							[Do All Questions][3 * 10 =30]
+													---------------------
+
+
+1. Toggle Visibility of an Element
+Question:
+Write a function in JavaScript that toggles the visibility of a paragraph with the ID myPara each time a button is clicked.
+
+2. Create and Append four List Item
+Question:
+Write a JavaScript function that, when called, creates a new <li> element with the text From User input and appends it to an existing <ul> with the ID myList.
+
+3. Random Background Color of body (using for loop)
+Question:
+Write JavaScript code that changes the background color of the body  to random color when the button is clicked .
